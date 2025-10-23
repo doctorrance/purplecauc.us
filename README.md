@@ -18,5 +18,5 @@ pnpm preview
 1) Push this folder to a new GitHub repo.
 2) In Vercel → New Project → Import the repo → Framework: **Astro** (auto-detected).
 3) Build command: `astro build` • Output dir: `dist`.
-4) Add your custom domain in Project → Settings → **Domains**.
+4) Add your custom domain in Project → Settings → **Domains**. 
 
